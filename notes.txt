@@ -1,0 +1,8 @@
+- create an object
+  create_object.js
+
+- constructor inheritance
+  constructor_inheritance.js
+
+- add property to instance object
+  add_property_instance.js
