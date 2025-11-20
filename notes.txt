@@ -6,3 +6,22 @@
 
 - add property to instance object
   add_property_instance.js
+
+- prototype inheritance
+  prototype_inheritance.js
+
+- class
+  class.js
+
+- class inheritance
+  class_inheritance.js
+
+- super method
+  super_method.js
+
+- class getter setter
+  class_getter_setter.js
+
+- public class field
+  public_class_field.js      
+
