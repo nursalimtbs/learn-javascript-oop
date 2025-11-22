@@ -23,5 +23,30 @@
   class_getter_setter.js
 
 - public class field
-  public_class_field.js      
+  public_class_field.js
+
+- private class field
+  private_class_field.js
+
+- private method
+  private_method.js
+
+- instanceof            
+  instanceof.js
+
+- static field
+  static_field.js
+
+- static method
+  static_metho.js
+
+- error
+  error.js
+
+- create custom error
+  custom_error.js
+
+- iterable and iterator
+    
+
 
